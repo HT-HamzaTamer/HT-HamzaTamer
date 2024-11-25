@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 **Currently Learning**: Front-End Development, focusing on React.  
+- 🌱 **Currently Learning**: Front-End Development, focusing on JavaScript & React.  
 - 🔭 **Goal**: Build interactive and user-friendly web interfaces.  
 - 🧠 **Passion**: Sharing knowledge about Python, HTML, and CSS, and helping others grow.    
 
